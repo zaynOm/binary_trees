@@ -2,3 +2,4 @@
 1-left
 binary_tree_print.c
 main.c
+*.out
